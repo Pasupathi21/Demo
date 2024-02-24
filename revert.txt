@@ -1,3 +1,1 @@
-Revert file - 1
-
-New Commit After Revert - 2
+Revert file
