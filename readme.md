@@ -37,15 +37,16 @@
 
     1. T**method:1 (First Push)**
 
-        ## cmd: `git push --set-upstream origin <BRANCH_NAME>`
+    ## cmd: `git push --set-upstream origin <BRANCH_NAME>`
 
-        #### If your push from your new local branch to remote branch in first time, use above the cmt, otherwise use 2 method.  
+    #### If your push from your new local branch to remote branch in first time, use above the cmt, otherwise use 2 method.  
 
     2 **Method:2**
 
-       ### cmd: `git push <BRANCH_NAME>`
+    ## ccmd: `git push <BRANCH_NAME>`
 
-       #### After the commiting message push comment move the changes to remote branch
+    #### After the commiting message push comment move the changes to remote branch.  
+
 
 7. ## Merge:
 
